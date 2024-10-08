@@ -4,7 +4,7 @@
 ## Prerequisite
 Ubuntu 20.04+ (better to have a GPU like NVidia RTX 2080Ti)
 
-Packages (steps 1 and 2 suffice for just using our STL Library (see [tutorial](tutorial.ipynb))):
+Packages:
 1. Numpy and Matplotlib: `conda install numpy matplotlib`
 2. PyTorch v1.13.1 [[link]](https://pytorch.org/get-started/previous-versions/): `conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cuda=11.7 -c pytorch -c nvidia` (other version might also work )
 
